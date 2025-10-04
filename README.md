@@ -127,7 +127,6 @@ Hotel Himalayaa is a 3-star hotel located in the heart of Tiruvannamalai, Tamil 
 
 
 ## OUTPUT
-
 ![alt text](<Screenshot (40).png>)
 ![alt text](<Screenshot (41).png>)
 ![alt text](<Screenshot (42).png>)
